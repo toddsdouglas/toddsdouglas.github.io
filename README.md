@@ -1,7 +1,8 @@
-# coip.github.io
+[![image](https://user-images.githubusercontent.com/12797772/97369732-7a7d2d00-187b-11eb-84cb-8f1886987d7f.png)](https://instagram.com/succnct)
 
-i like being a zookeeper, and aspire to train gophers to manage any and all chaos.
+---
 
+# [be prolific](https://github.com/coip)
 
 ``` /bin/life
 
@@ -9,12 +10,8 @@ i like being a zookeeper, and aspire to train gophers to manage any and all chao
 ἡ δὲ τέχνη μακρὴ
 
 ```
-
-cheers
--ethan
+[<sup>`ref`</sup>](http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0250:text=Aph.)
 
 
 
-
-
-<a href="http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0250:text=Aph.">ref</a>
+🥂
